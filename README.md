@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Backend Developer currently learning Node and Next.js<br>Built and shipped API's<br>Developed  API's using both FastAPI and DjangoRestFrameWork<br>
 
 
