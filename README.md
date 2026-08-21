@@ -1,5 +1,5 @@
 # About Me:
-I am an AI Engineer.<br> Building production-grade RAG pipelines and advanced LLM applications <br>
+I am an AI Engineer.<br> I am proficient in building production-grade RAG pipelines and advanced LLM applications. <br>
 
 
 ## 🌐 Socials:
