@@ -1,5 +1,5 @@
 # About Me:
-I am a Full stack Dev.<br>Developed several Restful API's.<br>
+I am an AI Engineer.<br> Building production-grade RAG pipelines and advanced LLM applications <br>
 
 
 ## 🌐 Socials:
